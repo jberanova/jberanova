@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm jana</h1>
 <h3 align="center">I am studying at a secondary technical school in Mlada Boleslav</h3>
 
-- 💻 I’m currently learning **java, css**
+- 💻 I’m currently learning **java, css and python**
 
 - 💃 I have been dancing standard and Latin dances for two year
 
