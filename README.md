@@ -3,7 +3,7 @@
 
 - 💻 I’m currently learning **java, css**
 
-- 💃 I have been dancing standard and Latin dances for a year
+- 💃 I have been dancing standard and Latin dances for two year
 
 - ⌛ I spend most of my free time on the dance floor :)
 
